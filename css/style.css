@@ -370,7 +370,7 @@ button{
         height: auto; /* Automatikus magasság beállítása a képarány megtartásához */
     }
     .svg_meret{
-        padding-right: 40%;
+        padding-right: 30%;
         width: 300px;
     }
 
