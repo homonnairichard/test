@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function() {
   
     // Vizsgáljuk, hogy hol van a felhasználó az oldalon, és megjelenítjük vagy elrejtjük a gombot
     window.addEventListener('scroll', function() {
-      if (window.scrollY > 300) {
+      if (window.scrollY > 90) {
         scrollToTopButton.style.display = 'block';
       } else {
         scrollToTopButton.style.display = 'none';
